@@ -1,7 +1,7 @@
 [
     {
       "title": "ISANS RBC Hackathon",
-      "imageSrc": "assets/projects/isans.jpeg",
+      "imageSrc": "projects/isans.jpeg",
       "description": "Placed 2nd in a hackathon by developing a centralized program eligibility matrix for ISANS. Built RESTful APIs with Spring Boot for user roles and program management, and designed a react base frontend with advanced search and filtering.",
       "skills": ["React", "Java", "Firebase"],
       "source": "https://github.com/mansi-46/isans"
