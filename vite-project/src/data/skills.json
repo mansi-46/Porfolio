@@ -1,38 +1,38 @@
 [
     {
       "title": "Java",
-      "imageSrc":"skills/java.jpeg"
+      "imageSrc":"../public/skills/java.jpeg"
     },
     {
       "title": "React",
-      "imageSrc": "skills/react.jpeg"
+      "imageSrc": "../public/skills/react.jpeg"
     },
     {
       "title": "Power Apps",
-      "imageSrc": "skills/Powerapps.jpeg"
+      "imageSrc": "../public/skills/Powerapps.jpeg"
     },
     {
       "title": "Agile",
-      "imageSrc": "skills/agile.jpeg"
+      "imageSrc": "../public/skills/agile.jpeg"
     },
     {
       "title": "Excel",
-      "imageSrc": "skills/excel.jpeg"
+      "imageSrc": "../public/skills/excel.jpeg"
     },
     {
       "title": "MongoDB",
-      "imageSrc": "skills/mongodb.jpeg"
+      "imageSrc": "../public/skills/mongodb.jpeg"
     },
     {
       "title": "Docker",
-      "imageSrc": "skills/docker.jpeg"
+      "imageSrc": "../public/skills/docker.jpeg"
     },
     {
       "title": "Power BI",
-      "imageSrc": "skills/powerBi.jpeg"
+      "imageSrc": "../public/skills/powerBi.jpeg"
     },
     {
       "title": "python",
-      "imageSrc": "skills/python.jpeg"
+      "imageSrc": "../public/skills/python.jpeg"
     }
   ]

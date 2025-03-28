@@ -1,21 +1,21 @@
 [
     {
       "title": "ISANS RBC Hackathon",
-      "imageSrc": "projects/isans.jpeg",
+      "imageSrc": "../public/projects/isans.jpeg",
       "description": "Placed 2nd in a hackathon by developing a centralized program eligibility matrix for ISANS. Built RESTful APIs with Spring Boot for user roles and program management, and designed a react base frontend with advanced search and filtering.",
       "skills": ["React", "Java", "Firebase"],
       "source": "https://github.com/mansi-46/isans"
     },
     {
       "title": "Information Retrieval",
-      "imageSrc": "projects/infoRetrivel.jpeg",
+      "imageSrc": "../public/projects/infoRetrivel.jpeg",
       "description": "Developed recommender systems using collaborative filtering and content-based methods to enhance personalization. Applied image recognition techniques, utilizing Python libraries like OpenCV and NumPy for data preprocessing, feature extraction (SIFT), and retrieval efficiency.",
       "skills": ["Python"],
       "source": "https://github.com/mansi-46/information-retrieval"
     },
     {
       "title": "Trello Clone",
-      "imageSrc": "projects/Trello.jpeg",
+      "imageSrc": "../public/projects/Trello.jpeg",
       "description": "Task management tool enables users to register, log in, create workspaces, and organize tasks using boards. This project demonstrates my expertise in full-stack development, problem-solving, and Agile teamwork.",
       "skills": ["React", "SpringBoot", "Java", "Node", "MaterialUI"],
       "source": "https://github.com/mansi-46/trello-clone"

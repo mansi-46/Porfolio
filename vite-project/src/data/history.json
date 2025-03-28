@@ -5,7 +5,7 @@
     "startDate": "09/2023",
     "endDate": "04/2024",
     "experiences": "At CGI, I enhanced front-end applications using Vue.js, resolving over 90 bugs and improving UI performance. Additionally, I supported backend development with Java (Spring Boot), ensuring seamless integration of new features.",
-    "imageSrc": "history/cgi.png"
+    "imageSrc": "../public/history/cgi.png"
   },
   {
     "role": "Data Steward Associate",
@@ -13,7 +13,7 @@
     "startDate": "01/2023",
     "endDate": "04/2023",
     "experiences": "At Introhive, I improved CRM data accuracy by 20% through cleansing and enrichment processes. I also leveraged tools like LinkedIn Sales Navigator, HubSpot, and Salesforce to streamline data operations and optimize workflows.",
-    "imageSrc": "history/introhive.jpeg"
+    "imageSrc": "../public/history/introhive.jpeg"
   },
   {
     "role": "Intern Developer",
@@ -21,6 +21,6 @@
     "startDate": "04/2022",
     "endDate": "08/2022",
     "experiences": "During my internship at MNP, I earned the PL-200 certification, gaining expertise in Power Apps and Power BI. I also contributed to a large-scale data migration project, ensuring data accuracy and a smooth transition.",
-    "imageSrc": "history/mnp.png"
+    "imageSrc": "../public/history/mnp.png"
   }
 ]
