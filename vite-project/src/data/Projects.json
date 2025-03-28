@@ -8,14 +8,14 @@
     },
     {
       "title": "Information Retrieval",
-      "imageSrc": "assets/projects/infoRetrivel.jpeg",
+      "imageSrc": "projects/infoRetrivel.jpeg",
       "description": "Developed recommender systems using collaborative filtering and content-based methods to enhance personalization. Applied image recognition techniques, utilizing Python libraries like OpenCV and NumPy for data preprocessing, feature extraction (SIFT), and retrieval efficiency.",
       "skills": ["Python"],
       "source": "https://github.com/mansi-46/information-retrieval"
     },
     {
       "title": "Trello Clone",
-      "imageSrc": "assets/projects/Trello.jpeg",
+      "imageSrc": "projects/Trello.jpeg",
       "description": "Task management tool enables users to register, log in, create workspaces, and organize tasks using boards. This project demonstrates my expertise in full-stack development, problem-solving, and Agile teamwork.",
       "skills": ["React", "SpringBoot", "Java", "Node", "MaterialUI"],
       "source": "https://github.com/mansi-46/trello-clone"
